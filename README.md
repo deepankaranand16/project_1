@@ -1,3 +1,3 @@
 # project_1
 this is my first github project
-author - Deepankar Anand
+<br>author - Deepankar Anand
